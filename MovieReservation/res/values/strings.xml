@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieReservation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Welcome to Otter Movies!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="email">Email: </string>
+    <string name="password">Password: </string>
+    <string name="loginEmail">Enter Email</string>
+    <string name="loginPassword">Enter Password</string>
+    <string name="loginButton">Login</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="name">First Name:</string>
+    <string name="enterName">Enter Name:</string>
+    <string name="signupButton">Sign Up</string>
+    <string name="confirmPassword">Confirm Password:</string>
+    <string name="title_activity_reserve">ReserveActivity</string>
+    <string name="reserve">Reserve Movie Ticket</string>
+    <string name="info">Select a time</string>
+    <string name="time_prompt">Choose a time</string>
+    <string name="hello">Hello World, MyAndroidAppActivity!</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="btn_display">Display</string>
+
+    <string-array name="time_arrays">
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>2:15</item>
+        <item>4:45</item>
+        <item>6:00</item>
+        <item>8:15</item>
+        <item>9:45</item>
+        <item>10:15</item>
+    </string-array>
+
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_reciept">RecieptActivity</string>
+
+</resources>
